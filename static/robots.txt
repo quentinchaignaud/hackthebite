@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /legal/mentions-legales
+/legal/cgu
+/legal/politique-de-confidentialite
